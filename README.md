@@ -1,3 +1,4 @@
 # Computer-Graphics
 
-1. Moving Car
+1. Moving Car.
+2. Draw Line, Triangle, Circle.
